@@ -1,0 +1,10 @@
+{
+  "name": "慢慢说英语",
+  "short_name": "慢慢说英语",
+  "description": "按生活场景和难度学习实用英语单词与短句",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#f7f6f1",
+  "lang": "zh-CN"
+}
